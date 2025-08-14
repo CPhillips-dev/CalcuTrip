@@ -1,4 +1,4 @@
-# Average MPG Calculator v1.09
+# Average MPG & Total Fuel Cost Calculator v1.09
 
 This software denotes a fully working Tkinter GUI program that allows users to calculate the total average MPG and fuel cost for a trip.
 
