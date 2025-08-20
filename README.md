@@ -57,7 +57,7 @@ Click **Calculate**.
 
 ### Step 3 — Save Your Results
 A “Save As” window appears.  
-- Suggested filename: e.g. `2022_Golf_GTI_fuel_data.txt`  
+- Suggested filename: e.g. `2022_Vio_Leem_fuel_data.txt`  
 - Choose a folder and click **Save**  
 
 ### Step 4 — Build a Running Log
