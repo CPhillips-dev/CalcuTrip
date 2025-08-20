@@ -1,13 +1,8 @@
-# CalcuTrip 🚗⛽
+# CalcuTrip
 Version: 1.09  
 Author: Charles Phillips  
 
-## 👋 Welcome
-Have you ever finished a trip and wondered:  
-- *“How good was my gas mileage?”*  
-- *“How much did I actually spend on fuel?”*  
-
-**CalcuTrip** is a simple, user-friendly desktop tool that helps you answer those questions instantly.  
+**CalcuTrip** a simple, user-friendly desktop tool that helps you answer those questions instantly.  
 It calculates your **average miles per gallon (MPG)** and **total fuel cost** for each trip, then saves your results to a running log so you can track fuel performance over time.  
 
 This app is designed for:  
