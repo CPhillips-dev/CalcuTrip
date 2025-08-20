@@ -1,4 +1,4 @@
-# CalcuTrip 🚗💨  
+# CalcuTrip 🚗⛽
 Version: 1.09  
 Author: Charles Phillips  
 
