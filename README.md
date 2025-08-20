@@ -26,7 +26,7 @@ This app is designed for:
 Here’s what you’ll see when CalcuTrip starts:
 
 **Input Fields (left):**
-- **Vehicle Info** → e.g. *“2022 Golf GTI”*  
+- **Vehicle Info** → e.g. *“2022 Vio Leem”*  
 - **Trip Mileage** → distance traveled (miles)  
 - **Gas Price ($/gal)** → what you paid per gallon  
 - **Gallons Used** → fuel consumed  
