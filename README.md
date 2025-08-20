@@ -11,16 +11,16 @@ Testing Markdown TOC
 2. [Example2](#example2)
 3. [Third Example](#third-example)
 
-## Example [](#){name=example}
+# Example [](#){name=example}
 
-## [Third Example](#){name=third-example}
+# [Third Example](#){name=third-example}
 
 a
 sdfasdfasd
 asdfa
 sdfasdfasdf
 
-## Example2 [](#){name=example2}
+# Example2 [](#){name=example2}
 
 📋 Table of Contents
 Features
