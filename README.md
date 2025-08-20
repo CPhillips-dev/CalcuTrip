@@ -46,10 +46,11 @@ Here’s what you’ll see when CalcuTrip starts:
 
 ### Step 1 — Enter Trip Details
 Fill in all four input fields:
-- Trip miles driven  
-- Gas price per gallon  
-- Gallons used  
-- (Optional) Vehicle info  
+- (Optional) Vehicle info
+- Trip miles driven
+- Gas price per gallon
+- Gallons of gas used
+
 
 ### Step 2 — Calculate
 Click **Calculate**.  
