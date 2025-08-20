@@ -100,9 +100,9 @@ Project structure:
 
 CalcuTrip/
 
-├── src/
-│ └── main.py
-├── assets/
-│ ├── imgs/
-│ └── license/
-└── README.md
+- ├── src/
+- │ └── main.py
+- ├── assets/
+- │ ├── imgs/
+- │ └── license/
+- └── README.md
