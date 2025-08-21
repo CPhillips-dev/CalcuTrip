@@ -1,6 +1,7 @@
 # CalcuTrip
 Version: 1.10
 Last revision date: 08/20/2025 @ 8:17 PM EST
+
 Author: Charles Phillips  
 
 **CalcuTrip** is a simple, user-friendly desktop tool that helps you answer those questions instantly.  
